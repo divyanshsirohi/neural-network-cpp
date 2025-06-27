@@ -1,6 +1,3 @@
-Perfect! I can see your GitHub repository is already set up at https://github.com/divyanshsirohi/neural-network-cpp[1]. Here's the updated README.md with your correct information:
-
-```markdown
 # NeuralNet++ 🧠
 
 A high-performance neural network library implemented from scratch in C++ with SIMD optimizations and convolutional layers. Achieves **3.2x speedup** on MNIST dataset compared to naive implementations.
